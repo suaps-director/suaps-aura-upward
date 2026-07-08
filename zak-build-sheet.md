@@ -1,0 +1,17 @@
+# Zak-ready Build Sheet - AURA/UPWARD Website Update
+
+| Page | Section/component | Current issue | Action | Source basis | Notes/cautions |
+| --- | --- | --- | --- | --- | --- |
+| Main landing page | Hero / intro | Current public page still mixes launch-era language with newer lifecycle language. | Replace with concise AURA-first hero and visible AURA/UPWARD explainer. | Laura website edits; AURA/UPWARD brief; current public page review. | Do not present submission as funding approval. |
+| Main landing page | Initiative explainer | Essential explanatory text has been hidden behind modal/lightbox behavior. | Surface 2-3 explanatory paragraphs directly on-page before the AURA cards. | Laura website edits. | Keep AURA/UPWARD acronyms defined early. |
+| Main landing page | Lifecycle | Old page includes conflicting 7-phase and 5-phase references. | Use only the revised 5-phase public model. | Laura edits; SRLB 2.0; revised AURA description. | Do not restore old 7-phase framing. |
+| Main landing page | RRL content | Current public page includes public RRL explanation and RRL-scale language. | Remove public RRL language. | Laura edits; AI review brief. | RRL can remain internal if leadership wants, but not on public site now. |
+| Main landing page | Read More buttons | Multiple read-more buttons led to repeated or undifferentiated content. | Replace with links to dedicated pages. | Main webpage audit/task comments; Laura edits. | Avoid modal reuse for core content. |
+| Architecture page | Core explainer | Existing Architecture of Discovery content was difficult to read in modal format. | Build dedicated `architecture.html`. | Laura edits. | Page should be readable and indexable. |
+| Architecture page | Lifecycle detail | Public explanation needs readable detail by phase. | Add phase-by-phase plain-language section. | Laura edits; SRLB 2.0; revised AURA description. | Keep technical detail moderate. |
+| Submission page | PI guidance | Website/submission flow may point to older launch-era guidance. | Build `submission-guidelines.html` using current PI Guide substance. | PI Guide; misalignment task. | Link from main page and from submission CTA area. |
+| Submission page | Submission form | ClickUp form must be prominent. | Add form CTA to nav, hero, and final CTA. | User-provided form link. | Confirm whether the form itself can link back to this guide. |
+| Review page | Review explanation | Public should understand review without seeing internal matrices. | Build `review-process.html` with high-level criteria and outcomes. | Evaluation framework; AI review brief. | Do not publish internal weights, thresholds, reviewer identities, or donor-access rules. |
+| UPWARD section | Scope | UPWARD should remain present but not overpromised. | Present UPWARD as synthesis/institutional-learning layer. | AURA/UPWARD definition; internal leadership brief. | Avoid claiming fully mature platform capabilities unless approved. |
+| Visual assets | Old AURA graphics | Older visuals may reinforce legacy RRL/7-phase model. | Do not use old graphics as authoritative art. | AI review brief. | Crosswalk image can be added later as supporting visual if captioned. |
+| Implementation workflow | Ownership | Work needs a direct implementation package, not scattered comments. | Use this package as source for update ticket/handoff. | PRF; UX task comments. | Zak can implement once leadership approves copy. |
